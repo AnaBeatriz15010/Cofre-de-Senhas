@@ -1,0 +1,10 @@
+git config --global user.name AnaBeatriz15010
+git config --global user.email anaevalegilmar@gmail.com
+
+
+-- toda aula ao comecar
+cd senhas-app
+npm i
+
+-- executar 
+npx expo start --android
