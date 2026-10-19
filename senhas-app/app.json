@@ -4,14 +4,11 @@
     "slug": "senhas-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "userInterfaceStyle": "light",
     "scheme": "senhasapp",
-    "userInterfaceStyle": "automatic",
-    "ios": {
-      "icon": "./assets/expo.icon"
-    },
     "android": {
-      
+      "predictiveBackGestureEnabled": false
+    },
     "web": {
       "output": "static"
     },
